@@ -25,7 +25,7 @@ Google Apps Script 版 (`code.gs`) を、ローカルの Node.js から実行で
 ### 1. リポジトリをクローン
 
 ```bash
-git clone https://github.com/your-name/GoogleCalendar2Garoon.git
+git clone https://github.com/wktkdisk/GoogleCalendar2Garoon.git
 cd GoogleCalendar2Garoon
 npm install
 ```
