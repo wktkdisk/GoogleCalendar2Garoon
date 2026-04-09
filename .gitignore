@@ -1,0 +1,6 @@
+node_modules/
+
+# 認証情報 (絶対にコミットしない)
+.env
+credentials.json
+token.json

@@ -1,0 +1,17 @@
+{
+  "name": "google-calendar-to-garoon",
+  "version": "1.0.0",
+  "description": "Google CalendarのイベントをGaroonに同期するNode.jsスクリプト",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "dotenv": "^16.6.1",
+    "googleapis": "^140.0.1"
+  }
+}
