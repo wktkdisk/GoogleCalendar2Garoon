@@ -1,9 +1,9 @@
 
 // settings
-const g_googleCalendarId = "your-name@gmail.com";
-const g_garoonApi = "https://gr.tsukuba-tech.ac.jp/scripts/cbgrn/grn.exe/api/v1/schedule/events";
+const g_googleCalendarId = "your-mail@gmail.com";
+const g_garoonApi = "https://your-garoon-host/scripts/cbgrn/grn.exe/api/v1/schedule/events";
 const g_garoonAuth = "GaroonのパスワードのMD5"; 
-const g_garoonUserId = "33";
+const g_garoonUserId = "9999";
 const g_basicAuth = "不要";
 
 const TIMEZONE = Session.getScriptTimeZone();
